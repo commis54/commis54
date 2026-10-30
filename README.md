@@ -1,3 +1,3 @@
 ## Hi there 👋
-### I am a student of VDU that currently studies Informatics Systems.
+### I am a student at VDU who is currently studying Informatics Systems Specialization.
 The aim - ML engineer.
